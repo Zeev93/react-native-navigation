@@ -38,8 +38,8 @@ const TabsAndriod = () => {
                     case 'Tab1Screen':
                         iconName = 'american-football-outline'
                     break;
-                    case 'Tab2Screen':
-                        iconName = 'balloon-outline'
+                    case 'TopTap':
+                        iconName = 'american-football-outline'
                     break;
                     case 'StackNavigator':
                         iconName = 'beer-outline'
